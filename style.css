@@ -358,3 +358,16 @@ body{
     text-align: justify;
     white-space: pre-line; /* Isse line breaks sahi dikhenge */
 }
+.place-card:hover .card-img img {
+    transform: scale(1.1);
+    transition: 0.3s ease;
+}
+
+.place-card {
+    transition: 0.3s ease;
+}
+
+.place-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(255, 204, 0, 0.3);
+}

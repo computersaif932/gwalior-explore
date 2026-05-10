@@ -15,7 +15,7 @@ Is kile ki deewarein aur nakshedari adbhut hain. Iske andar Man Singh Palace, Gu
         img: "assets/images/jai-vilas.jpg",
         history: `Jai Vilas Palace Maharaja Jayajirao Scindia ne 1874 mein banwaya tha. Is mahal ki architecture European style (Italian, Corinthian aur Ionic) ka behtareen mishran hai. 
 
-Iske Durbar Hall mein duniya ke do sabse bhari jhoomar (chandeliers) hain jinka wazan 3500 kg hai aur unhe tangne se pehle 10 hathiyon ko chhat par chadha kar chhat ki mazbooti check ki gayi thi. Yahan ki chandi ki train jo dining table par ghumti hai, poori duniya mein mashhoor hai.`
+Iske Durbar Hall mein duniya ke do sabse bhari jhoomar (chandeliers) hain jinka wazan 3500 kg hai. Yahan ki chandi ki train jo dining table par khana parosti hai, poori duniya mein mashhoor hai. Ye mahal Scindia rajvansh ki shaan ka prateek hai.`
     },
     {
         name: "Gurudwara Data Bandi Chhor",
@@ -24,7 +24,7 @@ Iske Durbar Hall mein duniya ke do sabse bhari jhoomar (chandeliers) hain jinka 
         img: "assets/images/gurudwara.jpg",
         history: `Ye pavan sthal Sikhon ke 6th Guru, Guru Hargobind Sahib Ji ki yaad mein banaya gaya hai. Mughal Badshah Jahangir ne unhe Gwalior qile mein qaid kiya tha. 
 
-Jab Guru Sahib ki rihayi ka waqt aaya, toh unhone apne saath 52 Rajput rajaon ki azadi ki shart rakhi. Unhone ek 52 kaliyon wala chola pehna jise pakadkar sabhi raja azad huye. Tabhi se Guru Sahib ko 'Data Bandi Chhor' kaha jane laga. Ye sthal iman aur azadi ka prateek hai.`
+Jab Guru Sahib ki rihayi ka waqt aaya, toh unhone apne saath 52 Rajput rajaon ki azadi ki shart rakhi. Unhone ek 52 kaliyon wala chola pehna jise pakadkar sabhi raja azad huye. Tabhi se Guru Sahib ko 'Data Bandi Chhor' kaha jane laga.`
     },
     {
         name: "Baijataal",
@@ -33,7 +33,7 @@ Jab Guru Sahib ki rihayi ka waqt aaya, toh unhone apne saath 52 Rajput rajaon ki
         img: "assets/images/baijataal.jpg",
         history: `Baijataal ka nirman Maharani Baijabai Scindia ne 1850 mein karwaya tha. Ye ek oval-shaped taal hai jise Moti Mahal ki sundarta badhane ke liye banaya gaya tha. 
 
-Aaj ye ek cultural complex hai jahan ek floating stage (tairta hua manch) hai. Raat ke waqt jab yahan light jalti hai, toh iska nazara behad khoobsurat hota hai. Yahan log boating aur shanti se waqt bitane aate hain.`
+Aaj ye ek cultural complex hai jahan ek floating stage (tairta hua manch) hai. Raat ke waqt jab yahan lights jalti hain, toh iska nazara behad khoobsurat hota hai. Yahan log boating aur family ke saath ghumne aate hain.`
     },
     {
         name: "Scindia Chhatri",
@@ -42,7 +42,7 @@ Aaj ye ek cultural complex hai jahan ek floating stage (tairta hua manch) hai. R
         img: "assets/images/scindia-chhatri.jpg",
         history: `Scindia Chhatriyan Gwalior ke shasakon ki yaad mein banaye gaye smarak hain. Ye apni behtareen nakshedari aur gulabi-peele pattharon ke liye vishva-prasiddh hain. 
 
-Inki architecture medieval Hindu aur Mughal style ka adbhut namuna hai. Yahan ke bagiche aur shant mahaul paryatkon ko sukoon dete hain. Har chhatri Scindia rajvansh ki shaan aur unke itihaas ki kahani bayan karti hai.`
+Inki architecture medieval Hindu aur Mughal style ka adbhut namuna hai. Yahan ke bagiche aur shant mahaul paryatkon ko sukoon dete hain. Har chhatri Scindia rajvansh ke itihaas ki kahani bayan karti hai.`
     },
     {
         name: "MLB College Gwalior",
@@ -51,7 +51,7 @@ Inki architecture medieval Hindu aur Mughal style ka adbhut namuna hai. Yahan ke
         img: "assets/images/college.jpg",
         history: `Maharani Laxmi Bai (MLB) Government College Gwalior ke sabse purane aur pratishthit colleges mein se ek hai. Ise Maharaja Madhav Rao Scindia ne banwaya tha. 
 
-Iski vishal building Victorian architecture ka ek behtareen namuna hai. Bharat ke mahan neta aur purva Pradhan Mantri Atal Bihari Vajpayee ji ne bhi yahin se shiksha li thi. Ye college Gwalior ki shaikshik viraasat ka ek bada hissa hai.`
+Iski vishal building Victorian architecture ka ek behtareen namuna hai. Bharat ke mahan neta aur purva Pradhan Mantri Atal Bihari Vajpayee ji ne bhi yahin se apni padhai poori ki thi.`
     },
     {
         name: "Sun Temple",
@@ -60,7 +60,7 @@ Iski vishal building Victorian architecture ka ek behtareen namuna hai. Bharat k
         img: "assets/images/sun-temple.jpg",
         history: `Gwalior ka Surya Mandir Konark ke prasiddh Sun Temple se prerit hai. Ise Birla parivar ne 1988 mein banwaya tha. 
 
-Lal patthar aur safed marble se bana ye mandir ek rath (chariot) ke akar ka hai jise 7 ghode kheench rahe hain. Mandir ke andar bhagwan Surya ki moorti hai. Iski shanti aur hariyali ise dhyan aur pooja ke liye ek behtareen jagah banati hai.`
+Lal patthar aur safed marble se bana ye mandir ek rath (chariot) ke akar ka hai jise 7 ghode kheench rahe hain. Iski shanti aur hariyali ise dhyan aur pooja ke liye ek behtareen jagah banati hai.`
     },
     {
         name: "Sas-Bahu Temple",
@@ -69,16 +69,16 @@ Lal patthar aur safed marble se bana ye mandir ek rath (chariot) ke akar ka hai 
         img: "assets/images/sas-bahu.jpg",
         history: `Ise 'Sahastra-Bahu' mandir bhi kaha jata hai, jiska matlab hai 'hazaar bhujaon wale bhagwan Vishnu'. Ise Raja Mahipala ne banwaya tha. 
 
-Ye mandir apni adbhut stone-carving aur architecture ke liye jana jata hai. Mandir ki har deewar par devi-devtaon aur puranik kathaon ki barik nakshedari hai. Log bol-chaal mein ise 'Sas-Bahu' kehne lage, lekin ye bhagwan Vishnu aur Shiv ko samarpit hai.`
+Ye mandir apni adbhut stone-carving aur architecture ke liye jana jata hai. Mandir ki har deewar par devi-devtaon aur puranik kathaon ki barik nakshedari hai. Ye kile ki sabse purani imaraton mein se ek hai.`
     },
     {
         name: "Tansen Tomb",
         year: "16th Century",
         address: "Tansen Nagar, Gwalior, MP 474002",
         img: "assets/images/tansen.jpg",
-        history: `Ye maqbara Akbar ke Navratno mein se ek, mahan sangeet-samrat Tansen ki yaad mein banaya gaya hai. Ye Mughal architecture style mein bana hai. 
+        history: `Ye maqbara Akbar ke Navratno mein se ek, mahan sangeet-samrat Tansen ki yaad mein banaya gaya hai. 
 
-Yahan har saal December mein 'Tansen Samaroh' hota hai jahan duniya bhar ke bade sangeetkar hazari dete hain. Kaha jata hai ki yahan lage neem ke ped ki patti khane se awaaz meethi ho jati hai. Ye sangeet premiyon ke liye ek teerth sthal jaisa hai.`
+Yahan har saal December mein 'Tansen Samaroh' hota hai jahan duniya bhar ke bade sangeetkar hazari dete hain. Kaha jata hai ki yahan lage neem ke ped ki patti khane se awaaz meethi ho jati hai. Ye sangeet premiyon ke liye ek teerth sthal hai.`
     },
     {
         name: "Gopachal Parvat",
@@ -87,7 +87,7 @@ Yahan har saal December mein 'Tansen Samaroh' hota hai jahan duniya bhar ke bade
         img: "assets/images/gopachal.webp",
         history: `Gopachal Parvat par pahadon ko kaat kar Jain Tirthankaraon ki vishal moortiyan banayi gayi hain. Ye moortiyan Tomar vansh ke rajaon ke samay banayi gayi thi. 
 
-Yahan bhagwan Parshvanath ki 42 feet unchi moorti sabse mukhya hai. Ye moorti-kala ka ek adbhut namuna hai aur Jain dharm ke logon ke liye ek bada dhyan kendra hai. Yahan ki shanti aur kala dekhne layak hai.`
+Yahan bhagwan Parshvanath ki 42 feet unchi moorti sabse mukhya hai. Ye moorti-kala ka ek adbhut namuna hai aur Jain dharm ke logon ke liye ek bada dhyan kendra hai.`
     },
     {
         name: "Teli Ka Mandir",
@@ -105,7 +105,7 @@ Ise Gurjara-Pratihara samraton ke samay banaya gaya tha. Ye mandir bhagwan Vishn
         img: "assets/images/tigra-dam.jpg",
         history: `Tigra Dam Sank nadi par bana ek vishal bandh hai. Ise Gwalior shehar ko pani supply karne ke liye 1916 mein banaya gaya tha. 
 
-Aaj ye shehar ka sabse bada picnic spot aur adventure destination hai. Yahan boat riding, speed boating aur pani ka sukoon bhara nazara tourists ko apni taraf khinchta hai. Shaam ke waqt yahan ka sunset dekhna ek alag hi ehsas hai.`
+Aaj ye shehar ka sabse bada picnic spot hai. Yahan boat riding aur pani ka sukoon bhara nazara tourists ko apni taraf khinchta hai. Shaam ke waqt yahan ka sunset behad khoobsurat hota hai.`
     }
 ];
 
@@ -116,6 +116,11 @@ function loadPlaces() {
     places.forEach(place => {
         const card = document.createElement('div');
         card.className = 'place-card';
+        
+        // Is line se poore card par click karne ka feature add ho gaya hai
+        card.setAttribute('onclick', `openHistory('${place.name.replace(/'/g, "\\'")}')`);
+        card.style.cursor = 'pointer';
+
         card.innerHTML = `
             <div class="card-img">
                 <img src="${place.img}" alt="${place.name}" onerror="this.src='https://via.placeholder.com/400x250?text=Gwalior+Explore'">
@@ -124,7 +129,7 @@ function loadPlaces() {
                 <h3>${place.name}</h3>
                 <p><strong>Est:</strong> ${place.year}</p>
                 <p class="address">📍 ${place.address}</p>
-                <button class="view-btn" onclick="openHistory('${place.name}')">View History</button>
+                <button class="view-btn">Read History</button>
             </div>
         `;
         container.appendChild(card);
@@ -143,7 +148,7 @@ function openHistory(placeName) {
     modal.style.display = "block";
 }
 
-// Modal band karne ke liye logic
+// Modal band karne ka logic
 document.querySelector('.close-modal').onclick = function() {
     document.getElementById('historyModal').style.display = "none";
 }
@@ -155,5 +160,5 @@ window.onclick = function(event) {
     }
 }
 
-// Initial Load
+// Start building the cards
 loadPlaces();
